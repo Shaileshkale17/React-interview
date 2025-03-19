@@ -40,27 +40,27 @@ This document provides a collection of common React interview questions categori
 
 ## 🚀 Intermediate Questions
 
-### 6️⃣ Debounced Search Input
+### 1️⃣ Debounced Search Input
 
 - Implement a **search bar** that waits **300ms** after typing before making an API call.
 - Use `debounce` from **lodash** or implement it manually.
 
-### 7️⃣ Drag and Drop List
+### 2️⃣ Drag and Drop List
 
 - Build a **drag-and-drop** list where users can reorder items.
 - Use `react-beautiful-dnd`.
 
-### 8️⃣ Dynamic Form Fields
+### 3️⃣ Dynamic Form Fields
 
 - Create a form where users can **add or remove input fields dynamically**.
 - On submit, collect all data and log it.
 
-### 9️⃣ Image Carousel
+### 4️⃣ Image Carousel
 
 - Implement an **image slider** with next/prev buttons.
 - Add **autoplay** every **3 seconds**.
 
-### 🔟 Accordion Component
+### 5️⃣ Accordion Component
 
 - Build an **accordion** that expands/collapses when clicked.
 
@@ -68,28 +68,28 @@ This document provides a collection of common React interview questions categori
 
 ## 🏆 Advanced Questions
 
-### 1️⃣1️⃣ Infinite Scrolling
+### 1️⃣ Infinite Scrolling
 
 - Fetch paginated data and **load more** when the user scrolls to the bottom.
 
-### 1️⃣2️⃣ Virtualized List
+### 2️⃣ Virtualized List
 
 - Display **1000+ items efficiently** using `react-window`.
 
-### 1️⃣3️⃣ Multi-step Form
+### 3️⃣ Multi-step Form
 
 - Create a **multi-step** form with **Next/Previous buttons**.
 - Store the progress in **state**.
 
-### 1️⃣4️⃣ Real-time Chat App (WebSocket)
+### 4️⃣ Real-time Chat App (WebSocket)
 
 - Implement a basic **real-time chat app** using **Socket.IO**.
 
-### 1️⃣5️⃣ Chess or Tic-Tac-Toe Game
+### 5️⃣ Chess or Tic-Tac-Toe Game
 
 - Build a **Tic-Tac-Toe game** using React state.
 
-### 1️⃣6️⃣ Google Sheets Clone
+### 6️⃣ Google Sheets Clone
 
 - Build a **Google Sheets** clone using React state.
 - Features include adding text and changing cell colors.

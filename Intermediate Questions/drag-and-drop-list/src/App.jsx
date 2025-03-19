@@ -59,7 +59,7 @@ function App() {
 
   return (
     <DragDropContext onDragEnd={handleDragEnd}>
-      <Droppable droppableId="box">
+      <Droppable droppableId="characters">
         {(provided) => (
           <div
             className="box"
