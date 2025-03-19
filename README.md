@@ -2,11 +2,11 @@
 
 ## 🚀 Overview
 
-This document provides a list of common React interview questions categorized by difficulty level. These questions will help you prepare for React-based job interviews by testing your knowledge and skills in building React applications.
+This document provides a collection of common React interview questions categorized by difficulty level. These questions are designed to help you prepare for React-based job interviews by testing your knowledge and skills in building React applications.
 
 ---
 
-## 🔥 **Basic Questions (Easy)**
+## 🔥 Basic Questions (Easy)
 
 ### 1️⃣ Counter App
 
@@ -38,7 +38,7 @@ This document provides a list of common React interview questions categorized by
 
 ---
 
-## 🚀 **Intermediate Questions**
+## 🚀 Intermediate Questions
 
 ### 6️⃣ Debounced Search Input
 
@@ -66,32 +66,37 @@ This document provides a list of common React interview questions categorized by
 
 ---
 
-## 🏆 **Advanced Questions**
+## 🏆 Advanced Questions
 
-### 🔟 Infinite Scrolling
+### 1️⃣1️⃣ Infinite Scrolling
 
 - Fetch paginated data and **load more** when the user scrolls to the bottom.
 
-### 1️⃣1️⃣ Virtualized List
+### 1️⃣2️⃣ Virtualized List
 
 - Display **1000+ items efficiently** using `react-window`.
 
-### 1️⃣2️⃣ Multi-step Form
+### 1️⃣3️⃣ Multi-step Form
 
 - Create a **multi-step** form with **Next/Previous buttons**.
 - Store the progress in **state**.
 
-### 1️⃣3️⃣ Real-time Chat App (WebSocket)
+### 1️⃣4️⃣ Real-time Chat App (WebSocket)
 
 - Implement a basic **real-time chat app** using **Socket.IO**.
 
-### 1️⃣4️⃣ Chess or Tic-Tac-Toe Game
+### 1️⃣5️⃣ Chess or Tic-Tac-Toe Game
 
 - Build a **Tic-Tac-Toe game** using React state.
 
+### 1️⃣6️⃣ Google Sheets Clone
+
+- Build a **Google Sheets** clone using React state.
+- Features include adding text and changing cell colors.
+
 ---
 
-## 📌 **How to Use This Repository**
+## 📌 How to Use This Repository
 
 1. Pick a question and try to implement the solution in React.
 2. Use the official React documentation to understand concepts better.
@@ -100,24 +105,24 @@ This document provides a list of common React interview questions categorized by
 
 ---
 
-## 🛠 **Technologies Used**
+## 🛠 Technologies Used
 
 - React.js
 - JavaScript (ES6+)
 - HTML, CSS
 - Redux (optional for state management)
-- React Hooks (useState, useEffect, useReducer, etc.)
+- React Hooks (`useState`, `useEffect`, `useReducer`, etc.)
 - WebSockets (for real-time features)
-- Libraries: Lodash, react-window, react-beautiful-dnd, etc.
+- Libraries: `Lodash`, `react-window`, `react-beautiful-dnd`, etc.
 
 ---
 
-## 🤝 **Contributing**
+## 🤝 Contributing
 
 Contributions are welcome! If you have additional questions or improvements, feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 **License**
+## 📄 License
 
 This project is open-source and available under the MIT License.
